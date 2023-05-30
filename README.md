@@ -1,6 +1,6 @@
 ## Getting Started
-
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Hii
+Ini adalah repository tentang implementasi Design Pattern Factory yang disusun oleh Kelompok 3. 
 
 ## Folder Structure
 
